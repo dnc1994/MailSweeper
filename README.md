@@ -13,7 +13,7 @@ Python 2.7
 To-do list
 ----------
 - Automate the setting of recipients
-- Add support for multi-user congfiguration with simple but adequate password encryption
+- Add support for multi-user configuration with simple but adequate password encryption
 - Write a GUI
 
 Author
